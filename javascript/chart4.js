@@ -89,9 +89,6 @@ option4 = {
                     show: true,
                     position: 'inside'
                 }
-            },
-            markLine : {
-               
             }
         },
       
