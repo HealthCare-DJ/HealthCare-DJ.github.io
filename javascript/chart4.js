@@ -91,20 +91,7 @@ option4 = {
                 }
             },
             markLine : {
-                label:{
-                    normal:{
-                        show:false
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        type: 'dashed',
-                        color:'#eedd78'
-                    }
-                },
-                data : [
-                    [{type : 'min'}, {type : 'max'}]
-                ]
+               
             }
         },
       
