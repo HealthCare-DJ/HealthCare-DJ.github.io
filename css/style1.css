@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+/*文本样式*/
+.Stitle,.Stitle2{
+	width: 800px;
+	height: 50px;
+	margin: 30px auto;}
+.Stitle{text-align: center;}
+.Stitle2{text-align: left;}
+
+h3{
+	font: bold 30px/50px "微软雅黑","汉仪润圆-65W", "汉仪文黑-65W";
+	height: 50px;
+	color: rgb(205, 205, 205);
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	display: inline-block;
+	letter-spacing: 3px;
+	}
+.XStitle{
+	width: 800px;
+	height: 100px;
+	margin: 0 auto;
+}
+.XStitle h4,h5{
+	width: 800px;
+	height: 50px;
+	color: rgb(205, 205, 205);
+	padding: 0;
+	margin: 0 auto;
+	text-align: center;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	display: inline-block;
+	font: bold normal 18px/50px "汉仪润圆-65W", "汉仪文黑-65W", "微软雅黑";
+	letter-spacing: 2.5px;
+	-webkit-transition: all 2.5s ease 0s;
+	-o-transition: all 2.5s ease 0s;
+	transition: all 2.5s ease 0s;
+	}
+.XStitle h5{transform: translateY(0px);-webkit-transform : translateY(0px);opacity:0;}
+.XStitle:hover h4{color: rgba(82,77,77,1.00);}
+.XStitle:hover h5{transform: translateY(-55px);-webkit-transform : translateY(-55px);opacity:1;}
+
+.Mtext{width:800px;margin: 20px auto;} 
+
+p{
+	font: 16px/26px "汉仪润圆-65W", "汉仪文黑-65W", "微软雅黑";
+	text-align: justify;
+	color: rgb(205, 205, 205);
+}
+#beijing .Mtext{margin-top: 60px;}
+
+
+

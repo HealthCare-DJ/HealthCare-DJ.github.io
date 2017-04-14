@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* 图表样式 */
+.charts{
+	width:760px;
+	height:560px;
+	margin:40px auto;
+	position: relative;
+	}
+.charts2{
+	width:400px;
+	height:360px;
+	margin-left: 40px;
+	float: left;
+	}
+#chart-all{width: 900px;height: 750px;margin:0 auto;}
+.charts-title1,.charts-title2{width:750px;margin:10px auto;  }
+.charts-title2 {
+	margin-bottom: 30px;
+}
+.charts-title1 p{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	color: rgb(255,255,255);
+	height: 20px;
+	letter-spacing: 1px;
+}
+.charts-title2 p{text-align: right;font-size:11px;line-height: 12px;height: 12px;}
+
+

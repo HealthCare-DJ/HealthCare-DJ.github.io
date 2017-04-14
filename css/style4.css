@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* 图片图标样式 */
+.icon{width:20px;height:20px;}
+.icon_r{float: right;transform: translateY(-60px);-webkit-transform : translateY(-60px);}
+
+.bgpic{width:100%;}
